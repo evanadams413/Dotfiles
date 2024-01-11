@@ -1,0 +1,15 @@
+2024/01/10-09:57:48.827 40e9 Reusing MANIFEST /home/hope/.config/chromium/Profile 3/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/10-09:57:48.827 40e9 Recovering log #7
+2024/01/10-09:57:48.853 40e9 Reusing old log /home/hope/.config/chromium/Profile 3/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/000007.log 
+2024/01/10-10:03:54.693 40e9 Level-0 table #13: started
+2024/01/10-10:03:54.702 40e9 Level-0 table #13: 1318705 bytes OK
+2024/01/10-10:03:54.704 40e9 Delete type=0 #7
+2024/01/10-10:03:55.242 40e8 Compacting 1@1 + 2@2 files
+2024/01/10-10:03:55.251 40e8 Generated table #14@1: 408 keys, 2132539 bytes
+2024/01/10-10:03:55.258 40e8 Generated table #15@1: 1344 keys, 2106971 bytes
+2024/01/10-10:03:55.266 40e8 Generated table #16@1: 7404 keys, 382822 bytes
+2024/01/10-10:03:55.266 40e8 Compacted 1@1 + 2@2 files => 4622332 bytes
+2024/01/10-10:03:55.268 40e8 compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/01/10-10:03:55.268 40e8 Delete type=2 #9
+2024/01/10-10:03:55.268 40e8 Delete type=2 #10
+2024/01/10-10:03:55.268 40e8 Delete type=2 #13

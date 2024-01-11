@@ -1,0 +1,7 @@
+2024/01/10-10:47:43.185 40e8 Reusing MANIFEST /home/hope/.config/chromium/Profile 3/IndexedDB/https_search.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/10-10:47:43.186 40e8 Recovering log #3
+2024/01/10-10:47:43.186 40e8 Reusing old log /home/hope/.config/chromium/Profile 3/IndexedDB/https_search.bilibili.com_0.indexeddb.leveldb/000003.log 
+2024/01/10-10:47:45.192 40e9 Level-0 table #5: started
+2024/01/10-10:47:45.193 40e9 Level-0 table #5: 243 bytes OK
+2024/01/10-10:47:45.194 40e9 Delete type=0 #3
+2024/01/10-10:47:45.194 40e9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,88 @@
+{
+    "core": {
+        "current_notebook_root_folder_path": "/home/hope/Documents/VNote",
+        "external_media_default_path": "/home/hope",
+        "flash_page": "",
+        "minimize_to_system_tray": false,
+        "new_notebook_default_root_folder_path": "/home/hope/Documents",
+        "opengl": "none",
+        "quick_access": [
+        ],
+        "system_title_bar": true
+    },
+    "export": {
+        "custom_options": [
+        ],
+        "export_option": {
+            "custom_export": "",
+            "export_attachments": true,
+            "html_option": {
+                "add_outline_panel": true,
+                "complete_page": true,
+                "embed_images": true,
+                "embed_styles": true,
+                "scrollable": true,
+                "use_mime_html_format": false
+            },
+            "output_dir": "",
+            "pdf_option": {
+                "add_table_of_contents": false,
+                "all_in_one": false,
+                "layout": {
+                    "margins": "10,16,10,10",
+                    "orientation": 0,
+                    "page_size": 0,
+                    "units": 0
+                },
+                "use_wkhtmltopdf": false,
+                "wkhtmltopdf_args": "",
+                "wkhtmltopdf_exe_path": ""
+            },
+            "recursive": true,
+            "target_format": 1,
+            "use_transparent_bg": true
+        }
+    },
+    "external_programs": [
+    ],
+    "history": [
+        {
+            "last_accessed_time": "2024-01-11T06:12:33Z",
+            "line_number": -1,
+            "path": "/home/hope/.local/share/VNote/VNote/docs/zh_CN/welcome.md"
+        },
+        {
+            "last_accessed_time": "2024-01-11T06:51:07Z",
+            "line_number": 2,
+            "path": "/home/hope/Documents/VNote/笔记.md"
+        }
+    ],
+    "notebook_explorer_session": "AAAAAQAAADQALwBoAG8AbQBlAC8AaABvAHAAZQAvAEQAbwBjAHUAbQBlAG4AdABzAC8AVgBOAG8AdABlAAAACnsUi7AALgBtAGQ=",
+    "notebooks": [
+        {
+            "backend": "local.vnotex",
+            "root_folder": "/home/hope/Documents/VNote",
+            "type": "bundle.vnotex"
+        }
+    ],
+    "quick_note_schemes": [
+    ],
+    "search_option": {
+        "engine": 0,
+        "file_pattern": "",
+        "find_options": 0,
+        "objects": 3,
+        "scope": 2,
+        "targets": 3
+    },
+    "state_geometry": {
+        "location_list_state": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASwAAAADAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAADAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAABk",
+        "main_window_geometry": "AdnQywADAAAAAABKAAAA7wAAB8kAAAUJAAAASwAAAPAAAAfIAAAFCAAAAAAAAAAAB4AAAABLAAAA8AAAB8gAAAUI",
+        "main_window_state": "AAAA/wAAAAD9AAAAAwAAAAAAAAErAAAD4vwCAAAAAfwAAAAbAAAD4gAAAMgA////+gAAAAACAAAABfsAAAAqAE4AYQB2AGkAZwBhAHQAaQBvAG4ARABvAGMAawAuAHYAbgBvAHQAZQB4AQAAAAD/////AAAApgD////7AAAAJABIAGkAcwB0AG8AcgB5AEQAbwBjAGsALgB2AG4AbwB0AGUAeAEAAAAA/////wAAAH4A////+wAAABwAVABhAGcARABvAGMAawAuAHYAbgBvAHQAZQB4AQAAAAD/////AAAAyAD////7AAAAIgBTAGUAYQByAGMAaABEAG8AYwBrAC4AdgBuAG8AdABlAHgBAAAAAP////8AAAB+AP////sAAAAkAFMAbgBpAHAAcABlAHQARABvAGMAawAuAHYAbgBvAHQAZQB4AQAAAAD/////AAAAggD///8AAAABAAABBAAAA+L8AgAAAAL7AAAAJABPAHUAdABsAGkAbgBlAEQAbwBjAGsALgB2AG4AbwB0AGUAeAEAAAAbAAACEQAAAH4A////+wAAACQAVwBpAG4AZABvAHcAcwBEAG8AYwBrAC4AdgBuAG8AdABlAHgBAAACLQAAAdAAAABgAP///wAAAAMAAAAAAAAAAPwBAAAAAvsAAAAkAEMAbwBuAHMAbwBsAGUARABvAGMAawAuAHYAbgBvAHQAZQB4AAAAAAD/////AAAATgD////7AAAALgBMAG8AYwBhAHQAaQBvAG4ATABpAHMAdABEAG8AYwBrAC4AdgBuAG8AdABlAHgAAAAAAP////8AAABMAP///wAABU0AAAPiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAcAFUAbgBpAGYAaQBlAGQAVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA",
+        "notebook_explorer_state": "AAAA/wAAAAEAAAABAAABAAH/////AQAAAAEA",
+        "tag_explorer_state": "AAAA/wAAAAEAAAACAAAAwAAAAMAB/////wEAAAACAA==",
+        "visible_docks_before_expand": [
+        ]
+    },
+    "viewarea_session": "AQEAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAEAAAABAAAAQAAvAGgAbwBtAGUALwBoAG8AcABlAC8ARABvAGMAdQBtAGUAbgB0AHMALwBWAE4AbwB0AGUAL3sUi7AALgBtAGQAAQAAAAIAAAAA"
+}
